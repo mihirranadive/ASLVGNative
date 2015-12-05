@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1147533138/NDKROOT/delimiter=\:
+environment/project/com.android.toolchain.gcc.1147533138/NDKROOT/operation=append
+environment/project/com.android.toolchain.gcc.1147533138/NDKROOT/value=/Users/mihir_root/DevKits/android-ndk-r10e
+environment/project/com.android.toolchain.gcc.1147533138/PATH/delimiter=\:
+environment/project/com.android.toolchain.gcc.1147533138/PATH/operation=replace
+environment/project/com.android.toolchain.gcc.1147533138/PATH/value=/usr/bin\:/bin\:/usr/sbin\:/sbin
+environment/project/com.android.toolchain.gcc.1147533138/append=true
+environment/project/com.android.toolchain.gcc.1147533138/appendContributed=true
